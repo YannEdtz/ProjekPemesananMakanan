@@ -3,4 +3,4 @@ cli
 python main.py
 
 Gui
-python hui_pesanan.py
+python gui_pesanan.py
